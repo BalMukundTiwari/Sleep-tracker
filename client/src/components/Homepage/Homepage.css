@@ -1,0 +1,12 @@
+.gridBox {
+    cursor: pointer;
+}
+
+.gridBox:hover {
+    transform: scale(1.02);
+}
+
+.header-top {
+    font-size: 50px;
+    text-align: center;
+}
